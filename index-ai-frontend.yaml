@@ -1,0 +1,42 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: index-ai-frontend
+  namespace: dockers
+  labels:
+    k8s-app: index-ai-frontend
+    project: index-ai-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      k8s-app: index-ai-frontend
+  template:
+    metadata:
+      name: index-ai-frontend
+      labels:
+        k8s-app: index-ai-frontend
+    spec:
+      containers:
+        - name: index-ai-frontend
+          image: localhost:30500/index-ai-frontend:prod
+          imagePullPolicy: Always
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: index-ai-frontend-svc
+  namespace: dockers
+  labels:
+    k8s-app: index-ai-frontend
+    project: index-ai-frontend
+spec:
+  type: NodePort
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+      nodePort: 30903
+  selector:
+    k8s-app: index-ai-frontend

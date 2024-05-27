@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "parsed_data_type": "news",
+            "parser_name": "irecommend новости",
+            "author": "Иванов Иван Иванович",
+            "creation_date": "2010-01-01",
+            "update_date": "2022-01-01",
+            "website": "irecommend.ru",
+            "table_name": "irecommend_news",
+            "start_date": "2010-01-01",
+            "end_date": "2024-04-25"
+        },
+        {
+            "id": 2,
+            "parsed_data_type": "report",
+            "parser_name": "Сбербанк годовые отчеты",
+            "author": "Михина Анна Васильевна",
+            "creation_date": "2022-05-12",
+            "update_date": "2022-05-12",
+            "website": "https://www.sberbank.com/index",
+            "table_name": "sberbank_reports",
+            "start_date": "2010-01-01",
+            "end_date": "2024-01-01"
+        },
+        {
+            "id": 3,
+            "parsed_data_type": "reviews",
+            "parser_name": "irecommend отзывы",
+            "author": "Уваров Илья Дмитриевич",
+            "creation_date": "2024-01-01",
+            "update_date": "2024-01-01",
+            "website": "irecommend.ru",
+            "table_name": "irecommend_reviews",
+            "start_date": "1970-01-01",
+            "end_date": "2024-04-25"
+        },
+        {
+            "id": 4,
+            "parsed_data_type": "news",
+            "parser_name": "irecommend новости",
+            "author": "Иванов Иван Иванович",
+            "creation_date": "1970-01-01",
+            "update_date": "1970-01-01",
+            "website": "irecommend.ru",
+            "table_name": "irecommend_news",
+            "start_date": "1970-01-01",
+            "end_date": "2024-04-25"
+        },
+        {
+            "id": 5,
+            "parsed_data_type": "report",
+            "parser_name": "irecommend годовые отчеты",
+            "author": "Michael, Gustavo",
+            "creation_date": "1999-01-01",
+            "update_date": "2009-01-01",
+            "website": "irecommend.ru",
+            "table_name": "irecommend_reports",
+            "start_date": "-",
+            "end_date": "-"
+        }
+    ]
+}

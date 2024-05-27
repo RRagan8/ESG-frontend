@@ -1,0 +1,154 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "company_id": 101,
+            "report_type": "review",
+            "company_type": "bank",
+            "company_name": "Prestige Bank Mock",
+            "record_year": 2022,
+            "record_time": "14:35",
+            "entry": "This bank provided excellent service. I am very satisfied with their services."
+        },
+        {
+            "id": 2,
+            "company_id": 102,
+            "report_type": "report",
+            "company_type": "broker",
+            "company_name": "Invest Broker Mock",
+            "record_year": 2023,
+            "record_time": "09:20",
+            "entry": "The company demonstrates high reliability. Recommended for long-term investments. [PDF](https://example.com/reports/invest_broker_2023.pdf)"
+        },
+        {
+            "id": 3,
+            "company_id": 103,
+            "report_type": "website",
+            "company_type": "MFI",
+            "company_name": "MicroCred Mock",
+            "record_year": 2021,
+            "record_time": "11:45",
+            "entry": "The company's website is very user-friendly. All transactions are quick and seamless. [Website](https://microcredmock.com)"
+        },
+        {
+            "id": 4,
+            "company_id": 104,
+            "report_type": "inspection",
+            "company_type": "insurance",
+            "company_name": "InsureCo Mock",
+            "record_year": 2020,
+            "record_time": "16:10",
+            "entry": "The inspection showed high safety standards. The company meets all its obligations. [Inspection Report](https://example.com/inspections/insureco_2020.html)"
+        },
+        {
+            "id": 5,
+            "company_id": 105,
+            "report_type": "report",
+            "company_type": "bank",
+            "company_name": "FinanceBank Mock",
+            "record_year": 2023,
+            "record_time": "13:50",
+            "entry": "The bank has been operating steadily in the market for many years. Customers are always satisfied with their services. [PDF](https://example.com/reports/financebank_2023.pdf)"
+        },
+        {
+            "id": 6,
+            "company_id": 106,
+            "report_type": "review",
+            "company_type": "broker",
+            "company_name": "Prime Broker Mock",
+            "record_year": 2022,
+            "record_time": "10:15",
+            "entry": "Excellent brokerage services with competitive rates. Highly recommended for new investors."
+        },
+        {
+            "id": 7,
+            "company_id": 107,
+            "report_type": "website",
+            "company_type": "MFI",
+            "company_name": "QuickLoan Mock",
+            "record_year": 2021,
+            "record_time": "15:30",
+            "entry": "The website offers easy navigation and fast loan approval. Customer support is also very responsive. [Website](https://quickloanmock.com)"
+        },
+        {
+            "id": 8,
+            "company_id": 108,
+            "report_type": "inspection",
+            "company_type": "insurance",
+            "company_name": "SecureLife Mock",
+            "record_year": 2020,
+            "record_time": "08:45",
+            "entry": "Inspection results were positive, indicating strong financial health. Insurance claims are processed efficiently. [Inspection Report](https://example.com/inspections/securelife_2020.html)"
+        },
+        {
+            "id": 9,
+            "company_id": 109,
+            "report_type": "report",
+            "company_type": "bank",
+            "company_name": "TrustBank Mock",
+            "record_year": 2023,
+            "record_time": "12:25",
+            "entry": "TrustBank offers a wide range of financial services. Their customer loyalty programs are outstanding. [PDF](https://example.com/reports/trustbank_2023.pdf)"
+        },
+        {
+            "id": 10,
+            "company_id": 110,
+            "report_type": "review",
+            "company_type": "broker",
+            "company_name": "Alpha Investments Mock",
+            "record_year": 2022,
+            "record_time": "17:10",
+            "entry": "Alpha Investments provides insightful market analysis. Their investment strategies are highly effective."
+        },
+        {
+            "id": 11,
+            "company_id": 111,
+            "report_type": "website",
+            "company_type": "MFI",
+            "company_name": "EasyFinance Mock",
+            "record_year": 2021,
+            "record_time": "14:00",
+            "entry": "EasyFinance has a straightforward application process. The website layout is clean and intuitive. [Website](https://easyfinancemock.com)"
+        },
+        {
+            "id": 12,
+            "company_id": 112,
+            "report_type": "inspection",
+            "company_type": "insurance",
+            "company_name": "HealthSecure Mock",
+            "record_year": 2020,
+            "record_time": "09:30",
+            "entry": "HealthSecure excels in customer satisfaction. The recent inspection confirms their commitment to service quality. [Inspection Report](https://example.com/inspections/healthsecure_2020.html)"
+        },
+        {
+            "id": 13,
+            "company_id": 113,
+            "report_type": "report",
+            "company_type": "bank",
+            "company_name": "GlobalBank Mock",
+            "record_year": 2023,
+            "record_time": "16:55",
+            "entry": "GlobalBank has shown consistent growth over the years. Their financial products are very competitive. [PDF](https://example.com/reports/globalbank_2023.pdf)"
+        },
+        {
+            "id": 14,
+            "company_id": 114,
+            "report_type": "review",
+            "company_type": "broker",
+            "company_name": "Capital Advisors Mock",
+            "record_year": 2022,
+            "record_time": "11:40",
+            "entry": "Capital Advisors provides expert financial advice. Their client-centric approach is commendable."
+        },
+        {
+            "id": 15,
+            "company_id": 115,
+            "report_type": "website",
+            "company_type": "MFI",
+            "company_name": "FastCredit Mock",
+            "record_year": 2021,
+            "record_time": "18:20",
+            "entry": "FastCredit offers quick and easy credit solutions. Their website is optimized for mobile users. [Website](https://fastcreditmock.com)"
+        }
+    ]
+}
