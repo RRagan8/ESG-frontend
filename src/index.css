@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  transition: all 0.5;
+}
+@font-face {
+  font-family: 'HSESans';
+  src: url('../public/fonts/HSE-Sans/HSESans-Regular.otf');
+}
+
+@font-face {
+  font-family: 'HSESans';
+  src: url('../public/fonts/HSE-Sans/HSESans-Thin.otf');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'HSESans';
+  src: url('../public/fonts/HSE-Sans/HSESans-SemiBold.otf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'HSESans';
+  src: url('../public/fonts/HSE-Sans/HSESans-Bold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'HSESans';
+  src: url('../public/fonts/HSE-Sans/HSESans-Black.otf');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'HSESans';
+  src: url('../public/fonts/HSE-Sans/HSESans-Italic.otf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'HSESlab';
+  src: url('../public/fonts/HSE-Slab/HSESlab-Regular.otf');
+}
+
+@font-face {
+  font-family: 'HSESlab';
+  src: url('../public/fonts/HSE-Slab/HSESlab-Black.otf');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'HSESlab';
+  src: url('../public/fonts/HSE-Slab/HSESlab-Italic.otf');
+  font-style: italic;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'HSESans';
+}
+
+a.active {
+  text-decoration: underline;
+}
+
+li {
+  margin: 10px;
+}
+
+.formula-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.text-white {
+  display: inline-flex;
+  align-items: center;
+}
+
+main>.div {
+  padding-top: 100px;
+}
+
+.bg-main ul>li {
+  visibility: collapse;
+}
+
+
+.css-ggpccy {
+  top: 100px !important;
+}
+
+.bodymain {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90vw;
+}
+
+.font-semibold {
+  text-align: center
+}

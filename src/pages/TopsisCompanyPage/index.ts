@@ -1,0 +1,1 @@
+export { TopsisCompanyPage } from './TopsisCompanyPage';

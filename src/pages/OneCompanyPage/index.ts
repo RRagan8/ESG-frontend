@@ -1,0 +1,1 @@
+export { OneCompanyPage } from './OneCompanyPage';

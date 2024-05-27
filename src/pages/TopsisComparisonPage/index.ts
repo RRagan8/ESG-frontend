@@ -1,0 +1,1 @@
+export { TopsisComparisonPage } from './TopsisComparisonPage';
